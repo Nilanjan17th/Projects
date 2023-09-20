@@ -1,2 +1,2 @@
 # Projects
-Projects of SQL, Power BI Dashboard, Python
+Projects on SQL, Power BI Dashboard, Python
